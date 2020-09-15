@@ -13,7 +13,7 @@ items = [
       description: "More than just the centerpiece to your living room look, sofas define your overall aesthetic and are a symbol of relaxation. The perfect pick for any contemporary interior design, this one features flared arms, a clean-lined silhouette, and button tufted accents on each back cushion. Crafted from a wood frame, it has four black block feet while up top it flaunts foam-filled microfiber upholstery awash in a solid neutral color for a look that complements nearly any color palette.",
       category: "Sofa",
       image_tray: [
-          {io: File.open('storage/ibizasofa.jpg'), filename: 'ibizasofa.jpg'},
+          {io: File.open('../storage/ibizasofa.jpg'), filename: 'ibizasofa.jpg'},
           {io: File.open('storage/ibizasofa2.jpg'), filename: 'ibizasofa2.jpg'},
           {io: File.open('storage/ibizasofa3.jpg'), filename: 'ibizasofa3.jpg'},
           {io: File.open('storage/ibizasofa4.jpg'), filename: 'ibizasofa4.jpg'}
