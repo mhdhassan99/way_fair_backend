@@ -1,24 +1,5 @@
-# README
+# way_fair_frontend
+link to frontend of this website: https://github.com/mhdhassan99/way_fair_frontend/tree/master
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ShopFair is a single-page, web app, an online furniture Store. 
+ShopFair uses a Ruby on Rails backend, with PostgresSQL as the database. React, html, css constitute the frontend of the web app.
